@@ -30,7 +30,7 @@ Enthusiast passionate about Psych, IT and various areas of knowledge. Always see
 </div>
 
 ###
-## Get in touch
+## Get in touch.
 <div align="left">
   <a href="@thedevoted" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
