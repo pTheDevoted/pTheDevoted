@@ -8,8 +8,7 @@ Enthusiast passionate about Psych, IT and various areas of knowledge. Always see
 
 ###
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=java,python,js,bash&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=java,python,js,php,json,bash&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 ###
 
